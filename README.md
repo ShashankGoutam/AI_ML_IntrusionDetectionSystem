@@ -1,5 +1,3 @@
-# AI_ML_IntrusionDetectionSystem
-
 
 # 🔐 Intrusion Detection System using Random Forest (Binary & Multi-class Classification)
 
@@ -70,23 +68,28 @@ Each row includes features like protocol type, service, flag, and connection-rel
 ## 🚀 How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ids-random-forest.git
+git clone https://github.com/ShashankGoutam/AI_ML_IntrusionDetectionSystem.git
 ```
 
 2. Open and run the notebook
 
-```
+---
 
 ## 🔐 Why This Project Matters
-This IDS model offers a scalable, adaptable solution for real-time detection of cyber threats.  
-It outperforms traditional rule-based systems by leveraging data-driven insights.
+
+This IDS model provides a fast and scalable solution for real-time detection of cyber-attacks. Unlike traditional rule-based systems, this data-driven approach adapts to new threats and is extensible for evolving attack vectors.
+
+---
 
 ## 🛠️ Future Work
-- Add support for real-time traffic detection  
-- Integrate with SIEM tools (Security Information and Event Management)  
-- Explore deep learning approaches  
-- Visualize feature importance  
+
+- Add support for **real-time traffic detection**
+- Integrate with **SIEM tools** (Security Information and Event Management)
+- Add **deep learning models** for improved detection
+- Implement **feature importance visualizations**
+
+---
+
+> 🚨 **Disclaimer**: This project is for educational purposes and does not replace enterprise-grade intrusion detection systems in production environments.
 
 
-## 🚨 Disclaimer
-This project is intended for educational purposes and not meant for production-grade deployment.
